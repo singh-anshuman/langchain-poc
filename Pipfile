@@ -8,8 +8,10 @@ langchain = "*"
 langchain-openai = "*"
 black = "*"
 python-dotenv = "*"
+tools = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
